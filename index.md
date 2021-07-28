@@ -29,15 +29,9 @@
     
     <footer class="u-align-center u-clearfix u-custom-color-1 u-footer u-footer" id="sec-0341"><div class="u-align-left u-clearfix u-sheet u-sheet-1"></div></footer>
     <section class="u-backlink u-clearfix u-grey-80">
-      <a class="u-link" href="https://nicepage.com/html-templates" target="_blank">
-        <span>HTML Template</span>
-      </a>
       <p class="u-text">
         <span>created with</span>
       </p>
-      <a class="u-link" href="https://nicepage.com/" target="_blank">
-        <span>WYSIWYG Web Builder</span>
-      </a>. 
     </section>
   </body>
 </html>
