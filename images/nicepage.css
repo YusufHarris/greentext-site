@@ -4744,9 +4744,11 @@ a {
 .u-image.u-logo {
   display: table;
   white-space: nowrap;
+    background-color: transparent;
 }
 .u-image.u-logo img {
   display: block;
+  background-color: transparent;
 }
 .u-form-horizontal {
   display: flex;
@@ -33857,9 +33859,9 @@ a.u-link.u-text-hover-grey-90:hover {
             color: #15191e !important;
         }
 
-        
 
-        
+
+
         .u-border-custom-color-1,
         .u-separator-custom-color-1:after
         {
@@ -33906,9 +33908,9 @@ a.u-link.u-text-hover-grey-90:hover {
         {
             border-color: #13161b !important;
         }
-        
 
-        
+
+
         .u-text-custom-color-1,
         a.u-button-style.u-text-custom-color-1,
         a.u-button-style.u-text-custom-color-1[class*="u-border-"]
@@ -33967,7 +33969,7 @@ a.u-link.u-text-hover-grey-90:hover {
             color: #15191e !important;
         }
 
-        
+
 
         /** common-rules **/
         h1.u-title
@@ -34127,7 +34129,7 @@ a.u-link.u-text-hover-grey-90:hover {
         /*end-media rules*/
         /** publish-rules **/
 
-        
+
 
         /** cms-rules **/
         /*begin-responsive rules*/
@@ -34239,7 +34241,7 @@ a.u-link.u-text-hover-grey-90:hover {
         color: #ffffff;
         }
         /** alt-color-rules **/
-    
+
 
 
 /*end-variables sitestylecss*/
@@ -34261,6 +34263,7 @@ a.u-link.u-text-hover-grey-90:hover {
 .u-header .u-logo-image-1 {
   width: 100%;
   height: 100%;
+  background-color: transparent;
 }
 
 
@@ -34294,6 +34297,6 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 }
 
- /*begin-variables base-font-size*/ 
+ /*begin-variables base-font-size*/
  html { font-size: 16px; }
  /*end-variables base-font-size*/
