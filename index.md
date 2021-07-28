@@ -2,13 +2,9 @@
   <head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta charset="utf-8">
-    <meta name="keywords" content="">
-    <meta name="description" content="">
-    <meta name="page_type" content="np-template-header-footer-from-plugin">
     <title>Fable for Growth: Greentext</title>
     <link rel="stylesheet" href="nicepage.css" media="screen">
-	<link rel="stylesheet" href="Home.css" media="screen">
-    <meta name="generator" content="Nicepage 3.21.3, nicepage.com">
+<link rel="stylesheet" href="Home.css" media="screen">
     <link id="u-theme-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i|Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i">
   </head>
   <body data-home-page="Home.html" data-home-page-title="Home" class="u-body"><header class="u-clearfix u-header u-image u-header" id="sec-82a8" data-image-width="1920" data-image-height="207"><div class="u-clearfix u-sheet u-valign-middle u-sheet-1">
